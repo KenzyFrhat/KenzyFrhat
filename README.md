@@ -23,12 +23,19 @@ A Computer Science student focused on **Artificial Intelligence, Machine Learnin
 
 ### Libraries & Tools
 
-* **NumPy** – Numerical computing
-* **pandas** – Data cleaning & manipulation
-* **matplotlib** – Data visualization
-* **Git & GitHub**
-* **Jupyter Notebook, VS Code**
-* **Linux (basics)**
+## 🛠 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,mysql,linux,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded_C/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+</p>
 
 ---
 
