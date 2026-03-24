@@ -13,22 +13,11 @@ A Computer Science student focused on **Artificial Intelligence, Machine Learnin
 
 ---
 
-## 🛠 Core Skills
-
-### Programming
-
-* **Python** – Data analysis, ML foundations, numerical computing
-
----
-
-### Libraries & Tools
-
 ## 🛠 Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,arduino,mysql,linux,git,github,vscode&theme=dark" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded_C/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -39,42 +28,84 @@ A Computer Science student focused on **Artificial Intelligence, Machine Learnin
 
 ---
 
-## 📚 What I'm Learning Now
+## 📚 Currently Learning
 
-* Machine Learning fundamentals
+### 📊 Statistical Analysis
+- Probability distributions  
+- Hypothesis testing  
+- Transition from descriptive → inferential statistics  
 
-  * Linear Regression
-  * Logistic Regression
-  * Model behavior & basic optimization
+### 🤖 Machine Learning (Next Stage)
+- Model evaluation (metrics, validation techniques)  
+- Bias vs Variance tradeoff  
+- Feature engineering  
+- Scikit-Learn workflows  
 
-* Data Analysis Workflow
-
-  * Data cleaning (pandas)
-  * Data visualization (matplotlib)
-  * Exploratory Data Analysis (Kaggle datasets)
-
-* Mathematics for ML
-
-  * Linear Algebra (applied perspective)
-  * Probability & Statistics → moving toward statistical analysis
+### 🔄 Data Workflow
+- Building full ML pipelines (data → model → evaluation)  
+- Improving decision-making from data (not just description)  
 
 ---
 
 ## 🧭 Roadmap (Next Milestones)
 
-* Complete statistical foundations (inference, distributions, hypothesis testing)
-* Learn model evaluation techniques (metrics, validation, bias vs variance)
-* Apply Scikit-Learn for structured ML workflows
-* Build ML projects using real datasets (end-to-end pipeline)
-* Strengthen feature engineering and data-driven decision making
+### 1. Applied Machine Learning Projects
+- Design and implement end-to-end ML pipelines (data → preprocessing → modeling → evaluation)
+- Iterate based on evaluation results and error analysis
+
+### 2. Data Complexity Handling
+- Work with larger, noisier datasets
+- Handle missing values, outliers, and class imbalance
+
+### 3. Model Evaluation & Selection
+- Apply appropriate evaluation metrics (classification and regression)
+- Perform validation techniques (train/validation/test splits, cross-validation)
+- Compare models and justify selection decisions
+
+### 4. Advanced Modeling Techniques
+- Explore tree-based models (Decision Trees, Random Forests)
+- Study regularization techniques and their impact on generalization
+
+### 5. Engineering Mindset
+- Transition from experimentation to structured workflows
+- Emphasize reproducibility, modular code, and clear pipelines
+  
+---
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=KenzyFrhat&theme=dark&hide_border=false&border_radius=12&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideNums=ffffff&currStreakNum=ffffff" />
+</p>
 
 ---
 
-## 📫 Contact
+## 📈 Contribution Graph
 
-* 📧 Email: [kenzyfrhat723@gmail.com](mailto:kenzyfrhat723@gmail.com)
-* 🌐 GitHub: [https://github.com/KenzyFrhat](https://github.com/KenzyFrhat)
+<p align="center">
+  <a href="https://github.com/KenzyFrhat">
+    <img src="https://ghchart.rshah.org/2ea043/KenzyFrhat" />
+  </a>
+</p>
 
 ---
 
-⭐ *"My direction is driven by curiosity, continuous questioning, a love for learning, and a bias toward experimentation."*
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenzy-frhat-0a2405340/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/KenzyFrhat">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kenzyfrhat723@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+---
+⭐ *"All starts from curiosity and science love 💗."*
