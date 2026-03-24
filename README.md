@@ -1,60 +1,73 @@
+# 👋 Hi, I'm Kenzy Frhat
 
-# 👋 Hi, I'm Kenzy Frahat
-
-A second-year Computer Science student focused on **Artificial Intelligence**, **Machine Learning**, and **Algorithmic Problem Solving**.  
-I build strong technical foundations through Python, C++, Arduino, and deep algorithmic understanding — preparing for a future career in AI engineering.
+A Computer Science student focused on **Artificial Intelligence, Machine Learning**.
 
 ---
 
 ## 🚀 About Me
-- 🎯 Currently building expertise in **AI fundamentals**, **Data Structures & Algorithms**
-- 🧠 Preparing for the **ICPC track** using C++ and advanced problem solving
-- 🤖 Exploring **Arduino** and embedded systems for real-world hardware logic  
-- 📚 Learning how math, algorithms, and data come together in Machine Learning
+
+* 🎯 Currently developing applied Machine Learning skills (data → model → evaluation)
+* 📊 Working with real datasets (cleaning, visualization, exploration)
+* 📚 Studying the mathematical foundations behind ML (Linear Algebra, Probability, Statistics)
+* 🔍 Driven by curiosity and a genuine love for learning — this is what keeps me consistent
 
 ---
 
 ## 🛠 Core Skills
 
-### **Programming**
-- **Python** – Problem Solving, Numerics, ML foundations, Linear Algebra  
-- **C++** – Algorithms, Data Structures, Competitive Programming (ICPC path)  
-- **Arduino** – Hardware logic, sensors, actuators, embedded systems  
+### Programming
 
-### **Tools & Technologies**
-- Git & GitHub  
-- Linux basics *(currently learning)*  
-- Jupyter Notebook, VS Code  
-- NumPy, Pandas *(currently learning)*  
+* **Python** – Data analysis, ML foundations, numerical computing
+
+---
+
+### Libraries & Tools
+
+* **NumPy** – Numerical computing
+* **pandas** – Data cleaning & manipulation
+* **matplotlib** – Data visualization
+* **Git & GitHub**
+* **Jupyter Notebook, VS Code**
+* **Linux (basics)**
 
 ---
 
 ## 📚 What I'm Learning Now
-- Building real ML foundations (Math → NumPy → Pandas)  
-- Implementing algorithms from scratch in C++  
-- Preparing for ICPC Level 0 & Level 1  
-- Physical computing & embedded logic with Arduino  
-- Understanding how ML models work internally  
+
+* Machine Learning fundamentals
+
+  * Linear Regression
+  * Logistic Regression
+  * Model behavior & basic optimization
+
+* Data Analysis Workflow
+
+  * Data cleaning (pandas)
+  * Data visualization (matplotlib)
+  * Exploratory Data Analysis (Kaggle datasets)
+
+* Mathematics for ML
+
+  * Linear Algebra (applied perspective)
+  * Probability & Statistics → moving toward statistical analysis
 
 ---
 
 ## 🧭 Roadmap (Next Milestones)
 
-- Complete **Pandas** (data cleaning, indexing, merging, grouping)  
-- Learn **Data Visualization** (Matplotlib → Seaborn)  
-- Study **Statistics for Data Analysis** (descriptive → probability basics)  
-- Master **NumPy** + numerical computing foundations  
-- Begin **Scikit-Learn** (Regression, Classification, Model Evaluation)  
-- Build **2–3 ML mini-projects** using clean datasets  
-- Move to **Intermediate ML** (feature engineering, pipelines, cross-validation)  
+* Complete statistical foundations (inference, distributions, hypothesis testing)
+* Learn model evaluation techniques (metrics, validation, bias vs variance)
+* Apply Scikit-Learn for structured ML workflows
+* Build ML projects using real datasets (end-to-end pipeline)
+* Strengthen feature engineering and data-driven decision making
 
 ---
 
 ## 📫 Contact
-Feel free to reach out:  
-**📧 Email:** kenzyfrhat723@gmail.com  
-**🌐 GitHub:** https://github.com/KenzyFrhat
+
+* 📧 Email: [kenzyfrhat723@gmail.com](mailto:kenzyfrhat723@gmail.com)
+* 🌐 GitHub: [https://github.com/KenzyFrhat](https://github.com/KenzyFrhat)
 
 ---
 
-### ⭐ *“Strong foundations today = powerful AI engineering tomorrow.”*
+⭐ *"My direction is driven by curiosity, continuous questioning, a love for learning, and a bias toward experimentation."*
