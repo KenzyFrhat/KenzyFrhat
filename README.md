@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Kenzy Frhat
 
-A Computer Science student focused on **Artificial Intelligence, Machine Learning**.
+A Computer Science student focused on **Artificial Intelligence, Deep Learning**.
 
 ---
 
 ## 🚀 About Me
 
-* 🎯 Currently developing applied Machine Learning skills (data → model → evaluation)
-* 📊 Working with real datasets (cleaning, visualization, exploration)
-* 📚 Studying the mathematical foundations behind ML (Linear Algebra, Probability, Statistics)
-* 🔍 Driven by curiosity and a genuine love for learning — this is what keeps me consistent
-
+- 🤖 Currently studying **Deep Learning**
+- 🧠 Building practical AI systems with a strong foundation in **Machine Learning**, **Statistics**, and **Algorithms**
+- 📚 Expanding my engineering skills by designing reproducible ML workflows and end-to-end learning pipelines
+- 🔍 Passionate about understanding how AI works—from mathematical foundations to real-world implementation
 ---
 
 ## 🛠 Tech Toolbox
@@ -19,58 +18,33 @@ A Computer Science student focused on **Artificial Intelligence, Machine Learnin
   <img src="https://skillicons.dev/icons?i=python,cpp,arduino,mysql,linux,git,github,vscode&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded_C/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-### 📊 Statistical Analysis
-- Probability distributions  
-- Hypothesis testing  
-- Transition from descriptive → inferential statistics  
-
-### 🤖 Machine Learning (Next Stage)
-- Model evaluation (metrics, validation techniques)  
-- Bias vs Variance tradeoff  
-- Feature engineering  
-- Scikit-Learn workflows  
-
-### 🔄 Data Workflow
-- Building full ML pipelines (data → model → evaluation)  
-- Improving decision-making from data (not just description)  
+- Deep Learning with *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*
+- Neural Networks fundamentals
+- TensorFlow & Keras
+- Building end-to-end Machine Learning pipelines
+- Model evaluation and error analysis
 
 ---
 
-## 🧭 Roadmap (Next Milestones)
+## 🧭 Next Goals
 
-### 1. Applied Machine Learning Projects
-- Design and implement end-to-end ML pipelines (data → preprocessing → modeling → evaluation)
-- Iterate based on evaluation results and error analysis
-
-### 2. Data Complexity Handling
-- Work with larger, noisier datasets
-- Handle missing values, outliers, and class imbalance
-
-### 3. Model Evaluation & Selection
-- Apply appropriate evaluation metrics (classification and regression)
-- Perform validation techniques (train/validation/test splits, cross-validation)
-- Compare models and justify selection decisions
-
-### 4. Advanced Modeling Techniques
-- Explore tree-based models (Decision Trees, Random Forests)
-- Study regularization techniques and their impact on generalization
-
-### 5. Engineering Mindset
-- Transition from experimentation to structured workflows
-- Emphasize reproducibility, modular code, and clear pipelines
+- Build production-quality Machine Learning projects
+- Implement Deep Learning models using TensorFlow & Keras
+- Improve model performance through systematic experimentation
+- Apply feature engineering and model optimization techniques
+- Develop reproducible ML workflows following engineering best practices
   
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
